@@ -298,6 +298,16 @@ table, th, td {
 
 .project {
     margin-top: 10px;
+    text-align: center;
+}
+
+.project .project-item {
+    float: left;
+    margin-bottom: 15px;
+}
+
+.project .project-item p {
+    font-size: 17px;
 }
 
 .contact {
